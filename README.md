@@ -1,6 +1,6 @@
 # housing-market-investment-classifier
-Classifying safe and risky investment in housing market using Pandas, Numpy, Matplotlib, Seaborn and Scikit-Learn in iPython Notebook 
-environment.
+This is a time-series analysis to classify safe and risky investment in US housing market using Pandas, Numpy, Matplotlib, Seaborn and 
+Scikit-Learn in iPython Notebook environment.
 
 This is for all purposes my first project in prediction modelling. Before I go into details of explaining my thinking and intuition 
 for this, I would like to give credit to @sentdex channel on YouTube for getting me started on it.
